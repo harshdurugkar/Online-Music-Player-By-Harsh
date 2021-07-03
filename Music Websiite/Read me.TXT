@@ -1,3 +1,4 @@
+EveryThing is ready ...Open Direct index.html file in your browser & and check it..
 In This Online Music Player.. i add 5 Background  neon1.jpg , neon2.png ,...neon5.jpg..
 You Also Channge Background of website by changing image name in the code..
 To Change Background Image Go To :- index.html code --) in Body Tag  change background image name 
