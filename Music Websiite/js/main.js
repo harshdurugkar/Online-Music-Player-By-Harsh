@@ -10,9 +10,9 @@ poster = ["images/ncs1.jpeg","images/ncs2.jpg","images/ncs3.jpg","images/ncs4.jp
 
 ext = ".mp3";
 agent = navigator.userAgent.toLowerCase();
-if (agent.indexOf('firefox') != -1 || agent.indexOf('opera') != -1){
-    ext = ".ogg";
-}
+// if (agent.indexOf('firefox') != -1 || agent.indexOf('opera') != -1){
+//     ext = ".ogg";
+// }
 
 
 
